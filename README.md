@@ -20,8 +20,7 @@ Creating a TurboTax account is straightforward. Here are the steps you can follo
 <ul><li>Open the email and click on the verification link to activate your account.</li></ul>
 <ul><li>Once your email is verified, return to the TurboTax website.</li></ul>
 <ul><li>Use your newly created user ID and password to log in to your account.</li></ul>
-  
-After logging in, you can start the tax preparation process, select the appropriate TurboTax product for your needs, and begin entering your tax information.
+<ul><li>After logging in, you can start the tax preparation process, select the appropriate TurboTax product for your needs, and begin entering your tax information.</li></ul>
 
 By following these steps, you should be able to create a TurboTax account and begin preparing your tax return.
 
