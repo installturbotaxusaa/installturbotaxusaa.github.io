@@ -7,19 +7,20 @@ TurboTax is a popular tax preparation software developed by Intuit. It helps ind
 Creating a TurboTax account is straightforward. Here are the steps you can follow to create an account:
 
 <ul><li>Open your web browser and go to the TurboTax website: installturboTax.com</li></ul>
-Click on the "Sign In" button located at the top right corner of the homepage.
-In the drop-down menu, click on "Create an account".
-You will be directed to a sign-up page. Here, you'll need to provide your email address, phone number, and create a user ID and password.
-Ensure your password is strong, following any guidelines provided (e.g., including upper and lower case letters, numbers, and special characters).
-You might be prompted to set up security questions. These are used to help secure your account and recover it if you forget your password.
-Review the TurboTax terms of service and privacy policy.
-Check the box indicating you agree to the terms and conditions.
-Complete any CAPTCHA or security verification to confirm you are not a robot.
-Click on the "Create Account" button to submit your information.
-TurboTax may send a verification email to the email address you provided.
-Open the email and click on the verification link to activate your account.
-Once your email is verified, return to the TurboTax website.
-Use your newly created user ID and password to log in to your account.
+<ul><li>Click on the "Sign In" button located at the top right corner of the homepage.</li></ul>
+<ul><li>In the drop-down menu, click on "Create an account".</li></ul>
+<ul><li>You will be directed to a sign-up page. Here, you'll need to provide your email address, phone number, and create a user ID and password.</li></ul>
+<ul><li>Ensure your password is strong, following any guidelines provided (e.g., including upper and lower case letters, numbers, and special characters).</li></ul>
+<ul><li>You might be prompted to set up security questions. These are used to help secure your account and recover it if you forget your password.</li></ul>
+<ul><li>Review the TurboTax terms of service and privacy policy.</li></ul>
+<ul><li>Check the box indicating you agree to the terms and conditions.</li></ul>
+<ul><li>Complete any CAPTCHA or security verification to confirm you are not a robot.</li></ul>
+<ul><li>Click on the "Create Account" button to submit your information.</li></ul>
+<ul><li>TurboTax may send a verification email to the email address you provided.</li></ul>
+<ul><li>Open the email and click on the verification link to activate your account.</li></ul>
+<ul><li>Once your email is verified, return to the TurboTax website.</li></ul>
+<ul><li>Use your newly created user ID and password to log in to your account.</li></ul>
+  
 After logging in, you can start the tax preparation process, select the appropriate TurboTax product for your needs, and begin entering your tax information.
 
 By following these steps, you should be able to create a TurboTax account and begin preparing your tax return.
