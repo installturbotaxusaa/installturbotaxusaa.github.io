@@ -35,7 +35,7 @@ You can find the TurboTax license code in several places, depending on how you p
 
 ### Physical Retail Purchase:
 
-Inside the Box: If you bought a physical copy of TurboTax from a retail store, the license code is usually located inside the box. It might be printed on a card or on the back of the CD/DVD sleeve.
+<b>Inside the Box:</b> If you bought a physical copy of TurboTax from a retail store, the license code is usually located inside the box. It might be printed on a card or on the back of the CD/DVD sleeve.
 Instruction Manual: Sometimes, the license code can be found within the instruction manual included in the box.
 ### Online Purchase:
 
