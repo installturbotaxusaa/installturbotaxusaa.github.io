@@ -70,4 +70,13 @@ Downloading and installing TurboTax involves several straightforward steps. The 
 <ul><li>Follow the remaining prompts to complete the installation process.</li></ul>
 <ul><li>Once installed, you can launch TurboTax from your desktop or Start menu.</li></ul>
 
+### For Physical Copies (Download with CD/DVD)
+
+<ul><li>Insert the TurboTax CD/DVD into your computer’s drive.</li></ul>
+<ul><li>If the installation doesn’t start automatically, open the CD/DVD drive folder and double-click the setup file.</li></ul>
+<ul><li>Follow the on-screen instructions to begin the installation process.</li></ul>
+<ul><li>You will be prompted to enter the license code found inside the box or on the back of the CD/DVD sleeve.</li></ul>
+<ul><li>ontinue following the prompts to complete the installation.</li></ul>
+
+
 
