@@ -53,7 +53,7 @@ Retailer Account: Check your account on the retailer’s website where you can v
 
 ## Steps to Download, Install TurboTax
 
-Downloading and <a href"https://installturbotaxusaa.github.io/">installturbotax.com</a> involves several straightforward steps. The process varies slightly depending on whether you purchased a physical copy, a digital download from TurboTax directly, or from an online retailer. Here’s how you can do it:
+Downloading and <a href="https://installturbotaxusaa.github.io/">installturbotax.com</a> involves several straightforward steps. The process varies slightly depending on whether you purchased a physical copy, a digital download from TurboTax directly, or from an online retailer. Here’s how you can do it:
 
 ### For Digital Download Purchases
 
