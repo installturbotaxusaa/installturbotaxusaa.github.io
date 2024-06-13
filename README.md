@@ -57,17 +57,17 @@ Downloading and installing TurboTax involves several straightforward steps. The 
 
 ### For Digital Download Purchases
 
-<b> Purchase and Receive Confirmation:</b>
 <ul><li>After purchasing TurboTax online, you will receive a confirmation email with a link to download the software and your license code.</li></ul>
-
-<b>Log In to Your Intuit Account:</b>
-
 <ul><li>Go to the TurboTax website.</li></ul>
 <ul><li>Sign in to your Intuit account using your credentials.</li></ul>
-
-<b>Navigate to Your Downloads:</b>
-
 <ul><li>Once logged in, go to "My Account" or "Order History" and find the TurboTax product you purchased.</li></ul>
 <ul><li>Click on the link to download the software.</li></ul>
+<ul><li>Click the download link for the version you purchased.</li></ul>
+<ul><li>Save the installer file to your computer (usually a .exe file for Windows or .dmg file for Mac).</li></ul>
+<ul><li>Locate the downloaded file on your computer and double-click it to run the installer.</li></ul>
+<ul><li>Follow the on-screen instructions to install TurboTax.</li></ul>
+<ul><li>During installation, you will be prompted to enter your license code. Enter the code exactly as provided.</li></ul>
+<ul><li>Follow the remaining prompts to complete the installation process.</li></ul>
+<ul><li>Once installed, you can launch TurboTax from your desktop or Start menu.</li></ul>
 
 
