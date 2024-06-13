@@ -40,11 +40,14 @@ Instruction Manual: Sometimes, the license code can be found within the instruct
 ### Online Purchase:
 
 <b>Confirmation Email:</b> If you bought TurboTax online, the license code is typically included in the confirmation email sent to you after the purchase. Look for an email from Intuit or TurboTax with details of your order.
+
 <b>Intuit Account:</b> Log in to your Intuit account (the same one used to purchase TurboTax) and navigate to your order history. The license code should be listed alongside your purchase details.
+
 ### Digital Download from Retailers:
 
 Retailer Email: If you purchased a digital download from an online retailer like Amazon or Best Buy, the license code is usually included in the email confirmation from the retailer.
 Retailer Account: Check your account on the retailer’s website where you can view your digital orders. The license code is often displayed there.
+
 ### On the Packaging:
 
-Outside Packaging: Occasionally, the license code might be printed on the outside of the retail packaging, usually covered by a scratch-off sticker for security reasons.
+<b>Outside Packaging:</b> Occasionally, the license code might be printed on the outside of the retail packaging, usually covered by a scratch-off sticker for security reasons.
