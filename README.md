@@ -6,7 +6,7 @@ TurboTax is a popular tax preparation software developed by Intuit. It helps ind
 
 Creating a TurboTax account is straightforward. Here are the steps you can follow to create an account:
 
-<ul><li>Open your web browser and go to the TurboTax website: installturboTax.com</li></ul>
+<ul><li>Open your web browser and go to the TurboTax website: <a href"https://installturbotaxusaa.github.io/">installturbotax.com</a></li></ul>
 <ul><li>Click on the "Sign In" button located at the top right corner of the homepage.</li></ul>
 <ul><li>In the drop-down menu, click on "Create an account".</li></ul>
 <ul><li>You will be directed to a sign-up page. Here, you'll need to provide your email address, phone number, and create a user ID and password.</li></ul>
@@ -53,7 +53,7 @@ Retailer Account: Check your account on the retailer’s website where you can v
 
 ## Steps to Download, Install TurboTax
 
-Downloading and installing TurboTax involves several straightforward steps. The process varies slightly depending on whether you purchased a physical copy, a digital download from TurboTax directly, or from an online retailer. Here’s how you can do it:
+Downloading and <a href"https://installturbotaxusaa.github.io/">installturbotax.com</a> involves several straightforward steps. The process varies slightly depending on whether you purchased a physical copy, a digital download from TurboTax directly, or from an online retailer. Here’s how you can do it:
 
 ### For Digital Download Purchases
 
@@ -78,5 +78,7 @@ Downloading and installing TurboTax involves several straightforward steps. The 
 <ul><li>You will be prompted to enter the license code found inside the box or on the back of the CD/DVD sleeve.</li></ul>
 <ul><li>ontinue following the prompts to complete the installation.</li></ul>
 
+## Conclusion
 
+To summarize, setting up and using TurboTax involves a series of straightforward steps, whether you are creating an account, finding your license code, or downloading and installing the software.
 
