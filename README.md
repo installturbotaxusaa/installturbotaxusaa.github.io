@@ -62,9 +62,8 @@ Downloading and installing TurboTax involves several straightforward steps. The 
 
 <b>Log In to Your Intuit Account:</b>
 
-<ul><li>Go to the TurboTax website.<ul><li>
-
-<ul><li>Sign in to your Intuit account using your credentials.<ul><li>
+<ul><li>Go to the TurboTax website.</li></ul>
+<ul><li>Sign in to your Intuit account using your credentials.</li></ul>
 
 <b>Navigate to Your Downloads:</b>
 
