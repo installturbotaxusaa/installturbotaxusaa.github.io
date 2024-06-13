@@ -6,7 +6,7 @@ TurboTax is a popular tax preparation software developed by Intuit. It helps ind
 
 Creating a TurboTax account is straightforward. Here are the steps you can follow to create an account:
 
-Open your web browser and go to the TurboTax website: installturboTax.com
+<ul><li>Open your web browser and go to the TurboTax website: installturboTax.com</li></ul>
 Click on the "Sign In" button located at the top right corner of the homepage.
 In the drop-down menu, click on "Create an account".
 You will be directed to a sign-up page. Here, you'll need to provide your email address, phone number, and create a user ID and password.
